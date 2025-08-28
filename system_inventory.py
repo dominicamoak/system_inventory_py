@@ -1,6 +1,4 @@
 
-### `inventory.py`
-# /usr/bin/env python3
 import argparse
 import csv
 import json
